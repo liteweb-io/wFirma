@@ -7,7 +7,7 @@
     "require": {
         "php": ">=7.1",
         "jms/serializer": "^1.0.0",
-        "kriswallsmith/buzz": ">=0.17.0",
+        "kriswallsmith/buzz": "^0.17.0",
         "psr/log": "^1.0.2"
     },
     "require-dev": {
